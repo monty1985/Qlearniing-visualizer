@@ -1,0 +1,5 @@
+{
+  "name": "Q-Learn Viz",
+  "description": "An interactive playground to visualize and learn Q-Learning and Model-Based Reinforcement Learning algorithms with real-time convergence tracking and AI tutoring.",
+  "requestFramePermissions": []
+}
